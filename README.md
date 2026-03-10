@@ -8,7 +8,7 @@
 - [Ruby](https://www.ruby-lang.org)'yi kurun.
 - `git clone https://github.com/ismailarilik/www.ismailarilik.com.git` komutu ile repoyu yerelinize kopyalayın.
 - İlgili dizini açarak `bundle exec jekyll serve` komutunu verin.
-- Web sitesine [http://localhost:4000] adresinden ulaşabilirsiniz.
+- Web sitesine http://localhost:4000 adresinden ulaşabilirsiniz.
 
 ## Lisans
 
