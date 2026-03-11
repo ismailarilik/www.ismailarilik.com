@@ -1,18 +1,23 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkımda
+permalink: /hakkimda/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Merhaba.
+Ben İsmail Arılık.
+Ailemle birlikte Denizli'de yaşıyorum.
+Bir müslüman ve bir mühendisim.
+Burada hem İslam hem de mühendislik ile ilgili yazılar bulacaksınız.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Yeni bir şey öğrendikten veya bir işi bitirdikten sonra genellikle şunu fark ediyorum:
+Bu bilgi ve tecrübenin şu an sadece bana faydası oldu, başka birine faydası olmadı.
+Oysa bilgi ve tecrübe paylaşıldıkça çoğalır ve daha değerli hale gelir.
+Bu düşünceyle bu web sitesini açtım.
+Bu web sitesinde okuduğum kitaplardan kesitleri ve karşılaştığım sorunlara geliştirdiğim çözümleri günlük diliyle anlatacağım.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Bu yazıların okuyuculara faydalı olmasını umsam da, istemeyerek de olsa yanlış ya da eksik bilgi vermiş olabilirim.
+Bu sebeple burada okuyacaklarınızı başka bir kaynaktan da teyit etmenizi tavsiye ederim.
+Bu konuda beni de bilgilendirirseniz, hatalarımı düzeltme fırsatı bulurum.
+İnşallah yazılarımla kendime faydalı olduğum kadar sizlere de faydalı olabilirim.
+Son olarak; aşağıdaki sosyal medya hesaplarımı veya [şu RSS yayınını](/feed.xml) takip ederek yeni yazılarımdan haberdar olabileceğinizi de belirteyim.
