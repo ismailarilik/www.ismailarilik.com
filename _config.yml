@@ -28,6 +28,12 @@ url: "https://ismailarilik.com" # the base hostname & protocol for your site, e.
 # Ana sayfada gönderilerin ilk paragrafını göster
 show_excerpts: true
 
+# Sosyal ağlar
+twitter_username: ismailarilik
+facebook_username: ismailarilikdev
+instagram_username: ismailarilikdev
+linkedin_username: ismailarilik
+rss: rss
 
 # Build settings
 theme: minima
