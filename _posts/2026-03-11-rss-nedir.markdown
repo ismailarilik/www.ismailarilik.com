@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "RSS Yayını Nedir"
+permalink: /rss-nedir/
+date:   2026-03-11 14:00:00 +0300
+categories: web
+---
+
+*RSS yayını* ya da *RSS akışı* ya da *web akışı*, bir web sitesinin içeriğini takip edebilmek için geliştirilmiş bir sistemdir.
+RSS yayını yapan web sitelerindeki yeni içerikleri, e-posta listesine abone olmadan takip edebilir, istediğiniz zaman kolayca takipten çıkabilirsiniz.
+
+## Gereklilikler
+
+Bu sistemden yararlanabilmek için gerekli olan iki temel şey vardır:
+
+1. Takip etmek istediğiniz web sitesi RSS yayını vermelidir.
+2. RSS yayınlarını okuyabilen bir eklenti ya da uygulamanız olmalıdır.
+
+### 1 - Web sitesinin bir RSS yayını var mı
+
+Takip etmek istediğiniz web sitesinin RSS yayınını olup olmadığını anlamanın üç yolu vardır:
+
+1. Birazdan bahsedeceğimiz RSS okuyucuyla web sitesindeki RSS yayınlarını kontrol etmek.
+   Bu okuyucular genellikle bu yayınları otomatik olarak algılamaktadır.
+2. Web sitesinin ana sayfasını gözden geçirmek.
+   RSS yayınını destekleyen web siteleri genellikle bunu ana sayfalarında kenar ya da alt kısımda belirtir.
+   Örneğin; bu sitede RSS yayınının bağlantısını en aşağıda altbilgi bölümünde bulabilirsiniz.
+3. Bu yayının sunulduğu genelgeçer adresleri kontrol etmek.
+   Bu adreslerden en çok kullanılanları `feed.xml`, `rss.xml` ve `atom.xml`'dir.
+   Örneğin; bu web sitesi için bu adres [feed.xml](/feed.xml)'dir.
+
+### 2 - RSS okuyucu
+
+Thunderbird gibi bazı e-posta uygulamaları RSS yayınlarını varsayılan olarak destekler.
+Firefox web tarayıcısı için [Feedbro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)'yu kullanabilirsiniz.
+Chrome, Edge, Safari ve diğer tarayıcılar için eklentiler bölümünde `RSS` sözcüğü ile arama yaparak bir eklenti bulabilirsiniz.
+Android ve iPhone cihazlar için Google Play ya da App Store'da `RSS` sözcüğü ile arama yaparak bir uygulama bulabilirsiniz.
+
+## RSS okuyucu ile web sitelerini takip etmek
+
+Bu gereklilikleri sağladıktan sonra kullandığınız RSS okuyucu ile takip etmek istediğiniz web sitesinin RSS yayınını bulabilir ve takibe başlayabilirsiniz.
+Her yeni içerikte RSS okuyucunuz size bir bildirim gönderecek, bu bildirimi takip ederek yeni içeriğe ulaşabileceksiniz.
+Örneğin; bu web sitesini [şu RSS yayınını](/feed.xml) kullanarak takip edebilirsiniz.
+Eğer bu bağlantıya tıkladığınızda RSS okuyucunuz açılmıyorsa, {{ site.url }}/feed.xml adresini kopyalayarak RSS okuyucunuzda yeni RSS yayını bölümüne girin.
