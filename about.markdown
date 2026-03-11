@@ -21,3 +21,4 @@ Bu sebeple burada okuyacaklarınızı başka bir kaynaktan da teyit etmenizi tav
 Bu konuda beni de bilgilendirirseniz, hatalarımı düzeltme fırsatı bulurum.
 İnşallah yazılarımla kendime faydalı olduğum kadar sizlere de faydalı olabilirim.
 Son olarak; aşağıdaki sosyal medya hesaplarımı veya [şu RSS yayınını](/feed.xml) takip ederek yeni yazılarımdan haberdar olabileceğinizi de belirteyim.
+*RSS yayınının* ne olduğunu bilmiyorsanız, [RSS Yayını Nedir](/rss-nedir/) gönderimi okuyabilirsiniz.
