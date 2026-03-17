@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aracımızdaki oksijen sensörü hatasını nasıl çözeriz"
-permalink: /aracımızdaki-oksijen-sensoru-hatasini-nasil-cozeriz/
+permalink: /aracimizdaki-oksijen-sensoru-hatasini-nasil-cozeriz/
 date:   2026-03-14 17:00:00 +0300
 categories: araba tamir e39
 ---
