@@ -102,7 +102,7 @@ Ahirette herkes kendini düşünürken ümmeti olmadan cennete girmeyeceğini s�
 Onu ne kadar seviyoruz?
 Onun sünnetine ne kadar sadığız?
 
-# Kadere inanıyor muyuz
+## Kadere inanıyor muyuz
 
 Kadere *gerçekten* inanıyor muyuz?
 Başımıza gelen her şeyin Allah'tan geldiğine inanıyor muyuz?
